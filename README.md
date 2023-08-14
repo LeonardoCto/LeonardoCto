@@ -6,7 +6,8 @@ Me chamo Leonardo Coutinho tenho 20 anos e curso Análise e desenvolvimento de s
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
 
 
-![LeonardoCto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCto&show_icons=true&theme=transparent)
+[![LeonardoCto GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LeonardoCto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+//![LeonardoCto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCto&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCto&theme=tokyonight)
 
