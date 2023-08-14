@@ -3,7 +3,7 @@
 
 Me chamo Leonardo Coutinho tenho 20 anos e curso Análise e desenvolvimento de sistemas, atualmente estou estudando Front-End.
 
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:[http://monip.org](https://www.linkedin.com/in/leonardo-coutinho-90797422a/))](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
 
 
 ![LeonardoCto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCto&showicons=true&theme=radical)
