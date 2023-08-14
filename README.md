@@ -6,7 +6,7 @@ Me chamo Leonardo Coutinho tenho 20 anos e curso Análise e desenvolvimento de s
 
 ![LeonardoCto GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoCto&showicons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCto&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Tecnologias que eu utilizo.
 <div style="dysplay : inline_block"><br/>
