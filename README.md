@@ -1,8 +1,7 @@
-### Olá!👋 Seja Bem-Vindo!
+### Hello!👋 Welcome!
 
 
-Me chamo Leonardo Coutinho tenho 20 anos e curso Análise e desenvolvimento de sistemas.
-
+I am Leonardo Coutinho a full-stack developer.
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
 
 
@@ -12,7 +11,7 @@ Me chamo Leonardo Coutinho tenho 20 anos e curso Análise e desenvolvimento de s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCto&theme=tokyonight)
 
 
-Tecnologias de interesse
+Technologies
 <div style="dysplay : inline_block"><br/>
 <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt=html5 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
