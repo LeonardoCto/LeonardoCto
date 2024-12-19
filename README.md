@@ -1,9 +1,13 @@
 👋 Welcome!
 I’m Leonardo Coutinho, a passionate Full-Stack Developer.
 
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
 
 
 📊 GitHub Stats
+
+![LeonardoCto GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LeonardoCto&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 
 🛠️ Technologies I Work With
