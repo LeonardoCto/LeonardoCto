@@ -1,5 +1,5 @@
 # 👋 Welcome!  
-I’m Leonardo Coutinho, a **Full-Stack Developer**.
+I'm Leonardo Coutinho, **Full-Stack Developer** I currently work at a technology company where I develop for an e-commerce with C#, Angular and SQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-coutinho-90797422a/)
 
