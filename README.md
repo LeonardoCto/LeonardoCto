@@ -21,12 +21,6 @@
 </p>
 
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCto&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCto&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php"/>
-</div>
 
 
 Feel free to connect with me or explore my projects! 🚀
